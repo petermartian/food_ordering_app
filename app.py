@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 import streamlit as st
 from typing import Dict, Optional
+from food_order_app_class import FoodOrderApp  # Assuming your class is in food_order_app_class.py
 
 
 # Initialize the app session state
