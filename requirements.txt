@@ -2,3 +2,4 @@ pandas
 numpy
 streamlit
 typing
+food_order_app_class
